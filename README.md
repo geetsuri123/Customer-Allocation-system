@@ -27,9 +27,7 @@ Great Britain. They have 13 regional facilities whose information, including the
 nominal capacities (number of customer visits), are presented in facilities.xlsx. The
 customers are grouped by local authorities and average customer demands are
 proportional to the population with the rate of 0.1%. The population data is available
-https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/
-populationestimates/datasets/populationestimatesforukenglandandwalesscotlandan
-dnorthernireland. Finally, distances between customer locations and facilities can be
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland. Finally, distances between customer locations and facilities can be
 calculated using their latitude and longitude values. Geography information of local
 authorities can be found here: https://geoportal.statistics.gov.uk/. Use a constructive
 heuristic to propose a customer allocation solution to the company. Explain in detail
